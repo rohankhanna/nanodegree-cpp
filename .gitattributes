@@ -1,0 +1,6 @@
+*.pb filter=lfs diff=lfs merge=lfs -text
+*.tar.gz filter=lfs diff=lfs merge=lfs -text
+video/HoursofWalkinginNYCasaWoman.mp4 filter=lfs diff=lfs merge=lfs -text
+ssd_mobilenet_v2_coco_2018_03_29.tar.gz filter=lfs diff=lfs merge=lfs -text
+model/frozen_inference_graph.pb filter=lfs diff=lfs merge=lfs -text
+model/labels_map.pbtxt filter=lfs diff=lfs merge=lfs -text
